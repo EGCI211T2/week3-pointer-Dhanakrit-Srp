@@ -7,6 +7,7 @@ int main(int argc,char *argv[]){
   int *pa, *pb, i, temp;
 
   int n =argc-1;
+  
   pa=new int[n];
 
   for(i=0;i<n;i++){
